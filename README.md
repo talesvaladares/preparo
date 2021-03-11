@@ -21,4 +21,5 @@ dependências da aplicação, em seguida basta executar yarn start e o site vai 
 - [x] Fazer login e criação de novas contas.
 - [x] Rotas privadas e públicas.
 - [ ] Servidor NodeJS e banco de dados Mongo.
+- [ ] Atualização de dados cadastrais, localização e foto de perfil.
 
